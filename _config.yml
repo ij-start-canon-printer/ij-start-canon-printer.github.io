@@ -1,10 +1,5 @@
 title: "ij.start.canon : Setup Canon Printer "
 description: "Learn how to set up and install your Canon printer using ij.start.canon. Follow this step-by-step guide for downloading drivers, connecting your printer, and troubleshooting issues."
 author: "ij.start.canon"
-baseurl: ""  # Leave empty for the root domain
 url: "https://ij-start-canon-printer.github.io/"
-
-
-favicon: "assets/images/favicon.ico"
-logo: "assets/images/logo.png"
 theme: jekyll-theme-cayman
