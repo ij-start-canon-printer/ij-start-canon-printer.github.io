@@ -3,7 +3,8 @@ description: "Install Intuit TurboTax 2025 with a license code and begin prepari
 author: "ij.start.canone"
 baseurl: ""  # Leave empty for the root domain
 url: "https://ij-start-canon-printer.github.io/"
-theme: jekyll-theme-cayman
 
-favicon: "favicon.ico"
-logo: "logo.png"
+
+favicon: "https://ij-start-canon-printer.github.io/favicon.ico"
+logo: "https://ij-start-canon-printer.github.io/logo.png"
+theme: jekyll-theme-cayman
