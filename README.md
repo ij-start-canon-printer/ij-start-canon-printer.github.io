@@ -1,6 +1,6 @@
 <div align="center">
 
-# ij.start.canon
+# IJ.start.canon
 
 </div>
 
