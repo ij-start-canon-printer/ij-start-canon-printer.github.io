@@ -5,6 +5,6 @@ baseurl: ""  # Leave empty for the root domain
 url: "https://ij-start-canon-printer.github.io/"
 
 
-favicon: "https://ij-start-canon-printer.github.io/favicon.ico"
-logo: "https://ij-start-canon-printer.github.io/logo.png"
+favicon: "assets/images/favicon.ico"
+logo: "assets/images/logo.png"
 theme: jekyll-theme-cayman
