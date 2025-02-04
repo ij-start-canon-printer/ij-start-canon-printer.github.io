@@ -1,3 +1,7 @@
 title: "ij.start.canon : Setup Canon Printer "
-description: <a href="https://ww0.us/?aHR0cHM6Ly9pai1zdGFydC1jYW5vbi1wcmludGVyLmdpdGh1Yi5pbw=="><img src="/canon-printer-setup.png"alt="ij.start.canon"/></a>
+description: <a href="https://ww0.us/?aHR0cHM6Ly9pai1zdGFydC1jYW5vbi1wcmludGVyLmdpdGh1Yi5pbw=="><img src="/canonprintersetup.png"alt="ij.start.canon"/></a>
 theme: jekyll-theme-cayman
+
+# Favicon and Logo (for GitHub Pages or Jekyll)
+favicon: "favicon.ico"
+logo: "logo.png"
